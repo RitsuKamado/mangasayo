@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mangasayoo/static/css/main.c2bdcc4d.css",
+    "main.js": "/mangasayoo/static/js/main.d6792946.js",
+    "static/js/787.58b87be8.chunk.js": "/mangasayoo/static/js/787.58b87be8.chunk.js",
+    "index.html": "/mangasayoo/index.html",
+    "main.c2bdcc4d.css.map": "/mangasayoo/static/css/main.c2bdcc4d.css.map",
+    "main.d6792946.js.map": "/mangasayoo/static/js/main.d6792946.js.map",
+    "787.58b87be8.chunk.js.map": "/mangasayoo/static/js/787.58b87be8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2bdcc4d.css",
+    "static/js/main.d6792946.js"
+  ]
+}
